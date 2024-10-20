@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_daily"
+        android:icon="@drawable/ic_card"
+        android:title="每日精選" />
+    <item
+        android:id="@+id/nav_star"
+        android:icon="@drawable/ic_star"
+        android:title="星標" />
+    <item
+        android:id="@+id/nav_moon"
+        android:icon="@drawable/ic_moon"
+        android:title="夜間模式" />
+    <item
+        android:id="@+id/nav_chat"
+        android:icon="@drawable/ic_chat"
+        android:title="訊息" />
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="個人檔案" />
+</menu>
